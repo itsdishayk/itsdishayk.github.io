@@ -6,7 +6,7 @@
 <p>BCA Student | Aspiring Web Developer</p>
 <h2>Projects</h2>
 <ul>
-<li><a href="https://github.com/itsdishayk/Calculator-c/blob/main/simpleswitchoperations.c">Calculator (C)</a></li>
+<li><a href="https://github.com/itsdishayk/Calculator-c">Calculator (C)</a></li>
 </ul>
   <strong>
  <u>Contact links:-</u>
