@@ -6,8 +6,12 @@
 <p>BCA Student | Aspiring Web Developer</p>
 <h2>Projects</h2>
 <ul>
-<li><a href="https://github.com/itsdishayk/BCA-C-Programming-2026">Calculator (C)</a></li>
+<li><a href="https://github.com/itsdishayk/Calculator-c/blob/main/simpleswitchoperations.c">Calculator (C)</a></li>
 </ul>
-<p>Contact: LinkedIn / X</p>
+  <strong>
+ <u>Contact links:-</u>
+  </strong>
+<li><a href="www.linkedin.com/in/disha-mazumder-790659359">LinkedIn </a></li>
+  <li><a href="https://x.com/eyyitsdisha">TwitterX</a></li>
 </body>
 </html>
