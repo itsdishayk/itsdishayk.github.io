@@ -3,7 +3,7 @@
 <head>Disha's Portfolio</head>
 <body>
 <h1>Hi, I'm Disha Mazumder!</h1>
-<p>BCA Student | Aspiring Web Developer</p>
+<p>BCA Student | Aspiring Front-End Developer</p>
 <h2>Projects</h2>
 <ul>
 <li><a href="https://github.com/itsdishayk/Calculator-c">Calculator (C)</a></li>
